@@ -1,0 +1,2 @@
+INSERT INTO dmHTML (reviewDate,datetimelastupdated,lockedBy,lastupdatedby,createdby,datetimecreated,catHTML,locked,status,metaKeywords,seoTitle,Teaser,displayMethod,extendedmetadata,ObjectID,label,versionID,Title,teaserImage,ownedby,Body) VALUES (NULL,'2014-04-09 10:39:22','','farcry_CLIENTUD','farcry_CLIENTUD','2011-12-15 22:18:57','',0,'approved','','','','displayPageStandard','','E689D66F-96FD-E9F6-B1AF64B8DAE78A69','Home','','Home','','CDD3B33E-A463-9B75-DC0150D316830765','');
+
